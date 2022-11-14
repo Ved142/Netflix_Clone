@@ -1,17 +1,23 @@
 
 # Netflix Clone 🚀
 
-Developed a Clone of Netflix as a React JS project.
+Developed a Clone of Netflix using React JS.
 
+👉[Link to webpage](https://netflix-clone-476.web.app/)
+
+To run this project on localhost:
+
+First grab an API Key from TMDB and then use the given commands in the terminal.
 ```
-Link to webpage: https://netflix-clone-476.web.app/
+ npm install
+ npm start
 ```
 
 
 
 ## API Reference
 
-### TMDB
+#### TMDB
 I have used TMDB API to fetch the data of Movies and TV series.
 
 ```
